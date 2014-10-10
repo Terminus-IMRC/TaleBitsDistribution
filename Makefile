@@ -8,3 +8,4 @@ main.o: main.c
 .PHONY: clean
 clean:
 	$(RM) main main.o
+	$(RM) result.png
